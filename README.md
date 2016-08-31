@@ -15,3 +15,8 @@ Enables borders on elements, curently only supports a black border around all DI
 
 ## Status
 Unstable, under development
+
+
+## Credits
+
+* [onDomReady](https://github.com/tubalmartin/ondomready) by Tubal Martin
