@@ -1,0 +1,33 @@
+{
+    "name": "jasonlam604/borderjs",
+    "description": "Client-side border revealer.",
+    "homepage": "http://borderjs.com",
+    "keywords": [
+        "border",
+        "placeholders",
+        "client-side",
+        "generation",
+        "development"
+    ],
+    "license": "MIT",
+    "type": "component",
+    "authors": [
+        {
+            "name": "Jason Lam",
+            "homepage": "http://www.jasonlam604.com"
+        }
+    ],
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "border.js"
+            ],
+            "files": [
+                "border.min.js"
+            ]
+        }
+    }
+}
