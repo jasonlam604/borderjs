@@ -19,4 +19,5 @@ Unstable, under development
 
 ## Credits
 
+* Code Layout borrowed from [Holder](https://github.com/imsky/holder) by Ivan Malopinsky
 * [onDomReady](https://github.com/tubalmartin/ondomready) by Tubal Martin
