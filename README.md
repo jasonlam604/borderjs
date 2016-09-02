@@ -19,5 +19,7 @@ Unstable, under development
 
 ## Credits
 
-* Code Layout borrowed from [Holder](https://github.com/imsky/holder) by Ivan Malopinsky
-* [onDomReady](https://github.com/tubalmartin/ondomready) by Tubal Martin
+* Code Layout borrowed from [Holder](https://github.com/imsky/holder) by Ivan Malopinsky - MIT License
+* [onDomReady](https://github.com/tubalmartin/ondomready) by Tubal Martin - No License Indicated
+* [querystring](https://github.com/jgallen23/querystring) by Greg Allen - MIT License
+
