@@ -5,6 +5,8 @@ Border.js - client side border revealer
 
 //Libraries and functions
 var onDomReady = require('./vendor/ondomready');
+var dom = require('./vendor/dom');
+var queryString = require('./vendor/querystring');
 
 var Border = {
    
