@@ -66,3 +66,5 @@ var querystring = {
     return string.join('&');
   }
 };
+
+module.exports = querystring;
