@@ -5,7 +5,7 @@
  * copyright Greg Allen 2013
  * MIT License
 */
-var querystring = {
+var queryString = {
   parse : function(string){
     var parsed = {};
     string = (string !== undefined) ? string :  window.location.search;
@@ -67,4 +67,4 @@ var querystring = {
   }
 };
 
-module.exports = querystring;
+module.exports = queryString;
